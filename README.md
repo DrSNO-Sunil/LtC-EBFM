@@ -11,3 +11,4 @@ Everest Base Camp AWS (27.9952° N, 86.8406° E; 5,315 m a.s.l.): Precipitation 
 
 
 
+[![DOI](https://zenodo.org/badge/1346723777.svg)](https://doi.org/10.5281/zenodo.22103448)
